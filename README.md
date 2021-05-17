@@ -7,7 +7,7 @@
 
 - 🌱 Java, Competitive Programming, Python, C++, Flutter
 - 🔭 I’m currently learning Flutter
-- 📫 How to reach me: https://linkedin.com/in/tarun-saini063
+- 📫 How to reach me: tsaini063@gmail.com
 <!--
 **TarunSaini063/TarunSaini063** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
