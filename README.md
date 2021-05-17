@@ -2,7 +2,8 @@
 
 **Get in touch:**
 
-[![Github Badge](https://img.shields.io/github/followers/TarunSaini063?style=social)](https://www.github.com/TarunSaini063/)
+[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/TarunSaini063/)
+[![Github Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/tarun-saini063)
 
 - 🌱 Java, Competitive Programming, Python, C++, Flutter
 - 🔭 I’m currently learning Flutter
