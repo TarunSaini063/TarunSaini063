@@ -26,5 +26,5 @@ Here are some ideas to get you started:
 
 ![Profile views](https://gpvc.arturio.dev/TarunSaini063)
 
-[![All Stats](https://github-readme-stats.vercel.app/api?username=TarunSaini063&show_icons=true&include_all_commits=true&count_private=true&theme=flag-india&hide=contribs)](https://github.com/TarunSaini063/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TarunSaini063&theme=flag-india&layout=compact)](https://github.com/TarunSaini063/github-readme-stats)
+[![All Stats](https://github-readme-stats.vercel.app/api?username=TarunSaini063&show_icons=true&include_all_commits=true&count_private=true&theme=flag-india&hide=contribs)](https://github-readme-stats.vercel.app/api?username=TarunSaini063&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TarunSaini063&theme=flag-india&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=TarunSaini063&theme=flag-india)
