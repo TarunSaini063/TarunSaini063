@@ -1,13 +1,12 @@
 ### Hi there 👋
 
 **Get in touch:**
-<!-- [![Github Badge](https://img.shields.io/badge/-TarunSaini063-grey?style=flat&logo=github&logoColor=white&link=https://github.com/TarunSaini063/)](https://www.github.com/Dartrisen/)
-[![Linkedin Badge](https://img.shields.io/badge/-TarunSaini063-grey?style=flat&logo=twitter&logoColor=white&link=https://linkedin.com/in/tarun-saini063/)](https://twitter.com/Dartrisen/)-->
 
 [![Github Badge](https://img.shields.io/github/followers/TarunSaini063?style=social)](https://www.github.com/TarunSaini063/)
 
-- 🌱 Java, Flutter, Python, C++
-
+- 🌱 Java, Competitive Programming, Python, C++, Flutter
+- 🔭 I’m currently learning Flutter
+- 📫 How to reach me: https://linkedin.com/in/tarun-saini063
 <!--
 **TarunSaini063/TarunSaini063** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
