@@ -5,8 +5,8 @@
 [![Github Badge](https://img.shields.io/github/followers/TarunSaini063?style=social)](https://www.github.com/TarunSaini063/)
 [![Github Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarun-saini063)
 
-- 🌱 Java, Competitive Programming, Dart, C++
-- 🔭 I’m currently learning Kotlin
+- 🌱 kotlin, Competitive Programming, C++
+- 🔭 I’m currently learning Android App Development
 - 📫 How to reach me: tsaini063@gmail.com
 <!--
 **TarunSaini063/TarunSaini063** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
